@@ -10,7 +10,7 @@
 </div>    
 
 ##### Yam Peleg,  Valerio Maggio
-
+[pokefortress](http://www.pokefortress.com/)
 # Goal of this Tutorial
 
 - **Introduce** main features of Keras
@@ -136,7 +136,7 @@ The quickest and simplest way to setup the environment is to use [conda](https:/
 
 We provide in the materials a `deep-learning.yml` that is complete and **ready to use** to set up your virtual environment with conda.
 
-
+[pokefortress](http://www.pokefortress.com/)
 ```python
 !cat deep-learning.yml
 ```
@@ -372,7 +372,7 @@ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorf
 
 pip install --ignore-installed --upgrade $TF_BINARY_URL
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 **More on [tensorflow documentation](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html)**
 
 ---
@@ -453,7 +453,7 @@ print('Tensorflow: ', tf.__version__)
 # Consulting Material
 
 You have two options to go through the material presented in this tutorial:
-
+[pokefortress](http://www.pokefortress.com/)
 * Read (and execute) the material as **iPython/Jupyter** notebooks
 * (just) read the material as (HTML) slides
 
@@ -472,5 +472,5 @@ Thus, move to the folder where notebooks are stored and execute the following co
 (Please substitute `jupyter` with `ipython` in the previous command if you have `iPython 3.x` installed on your machine)
 
 ## In case...
-
+[pokefortress](http://www.pokefortress.com/)
 ..you wanna do **both** (interactive and executable slides), I highly suggest to install the terrific `RISE` ipython notebook extension: [https://github.com/damianavila/RISE](https://github.com/damianavila/RISE)
